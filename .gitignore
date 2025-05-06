@@ -1,2 +1,4 @@
 fastf1_cache/
+fastf1_cache_predict/
 csv/
+model_artifacts/
